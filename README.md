@@ -4,3 +4,11 @@ Our Symptom-Based Disease Diagnosis Web App brings the power of machine learning
 **To run the following project on your local system**
 1.Install all the modules as per requirements such as flask, bcrypt, pandas, numpy, scikit-learn,pickle, matplot-lib,etc.
 2.Then rum **main.py** file with the command :- "python main.py" on the terminal
+
+**Requirements**
+Flask
+Flask-SQLAlchemy
+bcrypt
+pandas
+numpy
+scikit-learn
