@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wecare--health-
 Our Symptom-Based Disease Diagnosis Web App brings the power of machine learning and healthcare information to the fingertips of users. It serves as a valuable resource for individuals looking to gain insights into their health conditions quickly and conveniently.
 
@@ -12,3 +13,6 @@ bcrypt
 pandas
 numpy
 scikit-learn
+=======
+# Wecare-
+>>>>>>> f398a7a7f70b00f01f5336ccd92d5b398271a1bc
